@@ -1,0 +1,9 @@
+{
+  "name": "scratch-source-protecter-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:UniScratch/scratch-source-protecter-nodejs.git",
+  "dependencies": {
+    "digital-watermarking": "^1.1.13"
+  }
+}
