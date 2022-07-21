@@ -4,6 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:UniScratch/scratch-source-protecter-nodejs.git",
   "dependencies": {
-    "digital-watermarking": "^1.1.13"
+    "crypto": "^1.0.1",
+    "digital-watermarking": "^1.1.13",
+    "jszip": "^3.10.0"
   }
 }
